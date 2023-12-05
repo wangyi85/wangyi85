@@ -29,7 +29,7 @@ You can contact me via jackywang8911@gmail.com
 <h4 align="center">
 I am an engineer doing my best for the work in my field. 
 <br />
-I have got over 5 years of experience with full stack and mobile and 2 years of experience with blockchain.
+I have got over 6 years of experience with web and mobile and 2 years of experience with blockchain.
 I have full hobbies and spirit just like as I was born for software.
 I really love what I do and have got high passion of my work all the time.
 <br />
